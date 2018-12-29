@@ -50,19 +50,3 @@ Has the name of the site on the left of the nav which allows users to return to 
 Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
 Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
 Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
-
-
-Finally, the website must be deployed to GitHub pages.
-
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-
-Considerations
-
-
-You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder.
-You must use bootstrap. This includes using the bootstrap navbar component for the header on every page, the bootstrap table component for the data page, and the bootstrap grid for responsiveness on the comparison page.
-You must deploy your website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
-Be sure to use a CSS media query for the navigation menu.
-Be sure your website works at all window widths/sizes.
-Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
